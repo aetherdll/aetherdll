@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Aether%20Yusuf&fontSize=50&animation=fadeIn&desc=Low-Level%20%26%20Software%20Developer&descSize=20" />
-</p>
-
 # 👋 Hi, I'm Aether (Yusuf)
 
 I'm a passionate developer building software across the full spectrum of computing—from low-level system architecture and hardware performance to modern web applications.
