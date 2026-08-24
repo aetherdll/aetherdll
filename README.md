@@ -27,6 +27,7 @@ I'm a passionate developer building software across the full spectrum of computi
 <p align="center">
   <img src="https://img.shields.io/github/followers/aetherdll?label=Followers&style=for-the-badge&color=0077B5" />
   <img src="https://img.shields.io/github/stars/aetherdll?label=Stars&style=for-the-badge&color=yellow" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aetherdll.aetherdll" />
 </p>
 
 ---
