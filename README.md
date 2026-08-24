@@ -24,10 +24,9 @@ I'm a passionate developer building software across the full spectrum of computi
 ---
 
 ### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aetherdll&show_icons=true&theme=radial" alt="Aether's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherdll&layout=compact&theme=radial" alt="Most Used Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/aetherdll?label=Followers&style=for-the-badge&color=0077B5" />
+  <img src="https://img.shields.io/github/stars/aetherdll?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
 ---
