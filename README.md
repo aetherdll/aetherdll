@@ -28,7 +28,7 @@ I'm a passionate developer building software across the full spectrum of computi
   <img src="https://img.shields.io/github/followers/aetherdll?label=Followers&style=for-the-badge&color=0077B5" />
   <img src="https://img.shields.io/github/stars/aetherdll?label=Stars&style=for-the-badge&color=yellow" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aetherdll.aetherdll" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherdll&layout=compact&theme=radial" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aetherdll&layout=compact&theme=radial" alt="Most Used Languages" />
 </p>
 
 ---
