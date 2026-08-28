@@ -35,3 +35,6 @@ I'm a passionate developer building software across the full spectrum of computi
 ### 🌐 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wer0011yq@gmail.com)
+[![Instagram](https://instagram.com/aetherdll)
+[![TikTok](https://tiktok.com/@yusufunl)
+[![Discord](https://discord.com/users/aetherdll)
